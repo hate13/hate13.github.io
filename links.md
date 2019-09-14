@@ -9,7 +9,7 @@ author: hate13
 key: page-links
 ---
 
-## 一些认识的小伙伴的博客链接
+一些认识的小伙伴的博客链接
 
 ### 旧版博客
 - [x] [博客园](https://www.cnblogs.com/hate13/)

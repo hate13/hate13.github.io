@@ -15,8 +15,8 @@
       {%- include snippets/get-nav-url.html -%}
       {%- assign _author_url = __return -%}
       <meta itemprop="url" content="{{ _author_url }}">
-      {%- if __author.bio -%}
-        <meta itemprop="description" content="{{ __author.bio }}">
+      {%- if _author.bio -%}
+        <meta itemprop="description" content="{{ _author.bio }}">
       {%- endif -%}
       {%- include follow-me.html -%}
     </aside>
@@ -31,6 +31,7 @@
         <span class="site-info__copyright">© {{ site.title }} {{ site.data.locale.COPYRIGHT_DATES }}</span>
         <a class="site-info__rss" type="application/rss+xml" href="{{ _href }}">{{ _locale_nav_rss }}</a>
       </p>
+      <p>{{ _author.bio }}</p>
       <p>Powered by <a title="Jekyll is a simple, blog-aware, static site generator." href="http://jekyllrb.com/">Jekyll</a> & <a
         title="TeXt is a succinct theme for blogging." href="https://github.com/kitian616/jekyll-TeXt-theme">TeXt Theme</a>.
       </p>

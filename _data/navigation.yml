@@ -11,3 +11,9 @@ header:
       zh-Hans:  关于
       zh-Hant:  關於
     url:        /about.html
+  - titles:
+      en:       Links
+      zh:       友链
+      zh-Hans:  友链
+      zh-Hant:  友鏈
+    url:        /links.html

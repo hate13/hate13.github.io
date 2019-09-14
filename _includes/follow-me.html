@@ -32,6 +32,30 @@
       </li>
     {%- endif -%}
 
+    {%- if _author.qq -%}
+      <li title="{{ __return | replace: '[NAME]', 'QQ' }}">
+        <a class="button button--circle qq-button" itemprop="sameAs" href="http://wpa.qq.com/msgrd?v=3&uin={{ _author.qq }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/qq.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
+
+    {%- if _author.douban -%}
+      <li title="{{ __return | replace: '[NAME]', 'Douban' }}">
+        <a class="button button--circle douban-button" itemprop="sameAs" href="https://www.douban.com/people/{{ _author.douban }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/douban.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
+
+    {%- if _author.zhihu -%}
+      <li title="{{ __return | replace: '[NAME]', 'Zhihu' }}">
+        <a class="button button--circle zhihu-button" itemprop="sameAs" href="https://www.zhihu.com/people/{{ _author.zhihu }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/zhihu.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
+
     {%- if _author.facebook -%}
       <li title="{{ __return | replace: '[NAME]', 'Facebook' }}">
         <a class="button button--circle facebook-button" itemprop="sameAs" href="https://www.facebook.com/{{ _author.facebook }}" target="_blank">
@@ -56,14 +80,6 @@
       </li>
     {%- endif -%}
 
-    {%- if _author.github -%}
-      <li title="{{ __return | replace: '[NAME]', 'Github' }}">
-        <a class="button button--circle github-button" itemprop="sameAs" href="https://github.com/{{ _author.github }}" target="_blank">
-          <div class="icon">{%- include svg/icon/social/github.svg -%}</div>
-        </a>
-      </li>
-    {%- endif -%}
-
     {%- if _author.linkedin -%}
       <li title="{{ __return | replace: '[NAME]', 'Linkedin' }}">
         <a class="button button--circle linkedin-button" itemprop="sameAs" href="https://www.linkedin.com/in/{{ _author.linkedin }}" target="_blank">
@@ -72,10 +88,10 @@
       </li>
     {%- endif -%}
 
-    {%- if _author.douban -%}
-      <li title="{{ __return | replace: '[NAME]', 'Douban' }}">
-        <a class="button button--circle douban-button" itemprop="sameAs" href="https://www.douban.com/people/{{ _author.douban }}" target="_blank">
-          <div class="icon">{%- include svg/icon/social/douban.svg -%}</div>
+    {%- if _author.github -%}
+      <li title="{{ __return | replace: '[NAME]', 'Github' }}">
+        <a class="button button--circle github-button" itemprop="sameAs" href="https://github.com/{{ _author.github }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/github.svg -%}</div>
         </a>
       </li>
     {%- endif -%}

@@ -5,6 +5,15 @@
       .mail-button {
         @include button-colors($text-color-1, $mail-color);
       }
+      .qq-button {
+        @include button-colors($text-color-1, $qq-color);
+      }
+      .weibo-button {
+        @include button-colors($text-color-1, $weibo-color);
+      }
+      .zhihu-button {
+        @include button-colors($text-color-1, $zhihu-color);
+      }
       .weibo-button {
         @include button-colors($text-color-1, $weibo-color);
       }

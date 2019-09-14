@@ -9,15 +9,15 @@ author: hate13
 key: page-links
 ---
 
-# 一些认识的小伙伴的博客链接
+## 一些认识的小伙伴的博客链接
 
-## 旧版博客
+### 旧版博客
 - [x] [博客园](https://www.cnblogs.com/hate13/)
-	- 曾经搞ACM刷题的博客
+  - 曾经搞ACM刷题的博客
 - [ ] [Typecho](http://v1.hate13.com/)
-	- 老版博客，由于域名备案被注销暂时无法访问
+  - 老版博客，由于域名备案被注销暂时无法访问
 
-## 友情链接
+### 友情链接
 1. [qsxuan](http://qsxuan.com/) 
 2. [shimanxiang](http://shimanxiang.github.io/)
 3. [kuangenping](https://blog.kuangenping.com)

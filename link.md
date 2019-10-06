@@ -1,12 +1,12 @@
 ---
 layout: article
 titles:
-  en: Links
+  en: Link
   zh: 友链
   zh-Hans: 友链
   zh-Hant: 友鏈
 author: hate13
-key: page-links
+key: page-link
 ---
 
 我的博客历史 & 一些认识的小伙伴的博客链接 🤔

@@ -6,11 +6,11 @@ header:
       zh-Hant:  歸檔
     url:        /archive.html
   - titles:
-      en:       Links
+      en:       Link
       zh:       友链
       zh-Hans:  友链
       zh-Hant:  友鏈
-    url:        /links.html
+    url:        /link.html
   - titles:
       en:       About
       zh:       关于

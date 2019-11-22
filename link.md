@@ -13,7 +13,7 @@ key: page-link
 
 ### 旧版博客
 - [x] [博客园](https://www.cnblogs.com/hate13/)
-  - 曾经搞ACM刷题的博客
+  - 曾经搞 ACM 刷题的博客
 - [ ] [Typecho](http://v1.hate13.com/)
   - 老版博客，由于域名备案被注销暂时无法访问
 

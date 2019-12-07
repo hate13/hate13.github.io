@@ -22,6 +22,5 @@ key: page-link
 2. [shimanxiang](http://shimanxiang.github.io/)
 3. [kuangenping](https://blog.kuangenping.com)
 4. [noobdream](http://noobdream.com/)
-  - 没有贴错链接，这是一个神奇的域名
 5. [zablog](http://zablog.me/)
 

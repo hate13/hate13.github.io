@@ -6,6 +6,12 @@ header:
       zh-Hant:  歸檔
     url:        /archive.html
   - titles:
+      en:       Algorithm
+      zh:       算法
+      zh-Hans:  算法
+      zh-Hant:  算法
+    url:        /algorithm.html
+  - titles:
       en:       Link
       zh:       友链
       zh-Hans:  友链

@@ -9,9 +9,12 @@ author: hate13
 key: page-algorithm
 ---
 
-算法笔记专栏
+开一个算法笔记专栏，用于记录一些算法相关的文章。
 
-[ACM常用算法]([https://hate13.com/2020/01/10/ACM%E5%B8%B8%E7%94%A8%E7%AE%97%E6%B3%95.html](https://hate13.com/2020/01/10/ACM常用算法.html))
+## 算法整理
 
-[LeetCode](https://hate13.com/2020/01/10/LeetCode.html)
+- [ACM常用算法](https://hate13.com/2020/01/10/ACM常用算法.html)
 
+## 刷题
+
+- [LeetCode](https://hate13.com/2020/01/10/LeetCode.html)

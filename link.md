@@ -18,9 +18,13 @@ key: page-link
   - 老版博客，由于域名备案被注销暂时无法访问
 
 ### 友情链接
+
+排名不分先后...
+
 1. [qsxuan](http://qsxuan.com/) 
 2. [shimanxiang](http://shimanxiang.github.io/)
 3. [kuangenping](https://blog.kuangenping.com)
 4. [noobdream](http://noobdream.com/)
 5. [zablog](http://zablog.me/)
+6. [rxlfchen](http://blog.rxlfchen.com/)
 

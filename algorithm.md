@@ -18,3 +18,7 @@ key: page-algorithm
 ### 刷题记录
 
 - [LeetCode](https://hate13.com/2020/01/10/LeetCode.html)
+
+### 资源
+
+- 哈特13的模板.pdf

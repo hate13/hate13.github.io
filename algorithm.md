@@ -17,7 +17,7 @@ key: page-algorithm
 
 ### 刷题记录
 
-- [LeetCode](https://hate13.com/2020/01/10/LeetCode.html)
+- [LeetCode题解](https://hate13.com/2020/01/10/LeetCode题解.html)
 
 ### 资源
 

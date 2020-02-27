@@ -15,11 +15,11 @@ key: page-algorithm
 
 ### 算法复习
 
-- [ACM常用算法](https://hate13.com/2020/01/10/ACM常用算法.html)
+- [ACM 常用算法](https://hate13.com/2020/01/10/ACM常用算法.html)
 
 ### 刷题记录
 
-- [LeetCode题解](https://hate13.com/2020/01/10/LeetCode题解.html)
+- [LeetCode 题解](https://hate13.com/2020/01/10/LeetCode题解.html)
 
 ### 资源
 

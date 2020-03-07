@@ -16,6 +16,7 @@ key: page-algorithm
 ### 算法复习
 
 - [ACM 常用算法](https://hate13.com/2020/01/10/ACM常用算法.html)
+- [面试常见手写代码总结-2016](http://v1.hate13.com/archives/111.html)
 
 ### 刷题记录
 
@@ -23,4 +24,4 @@ key: page-algorithm
 
 ### 资源
 
-- 哈特13的模板.pdf
+- [哈特13的模板.pdf](http://v1.hate13.com/about.html)

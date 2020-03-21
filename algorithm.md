@@ -17,7 +17,7 @@ key: page-algorithm
 
 - [ACM 常用算法](https://hate13.com/2020/01/10/ACM常用算法.html)
 - [面试常见手写代码总结-2016](http://v1.hate13.com/archives/111.html)
-- [面试常见手写代码总结-2020]([https://hate13.com/2020/03/21/%E9%9D%A2%E8%AF%95%E5%B8%B8%E8%A7%81%E6%89%8B%E5%86%99%E4%BB%A3%E7%A0%81%E6%80%BB%E7%BB%93.html](https://hate13.com/2020/03/21/面试常见手写代码总结.html))
+- [面试常见手写代码总结-2020](https://hate13.com/2020/03/21/面试常见手写代码总结.html)
 
 ### 刷题记录
 

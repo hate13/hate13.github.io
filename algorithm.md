@@ -23,7 +23,7 @@ key: page-algorithm
 
 - [博客园](https://www.cnblogs.com/hate13/)
 - [LeetCode 题解](https://hate13.com/2020/01/10/LeetCode题解.html)
-- [Swustoj 题解](http://v1.hate13.com/archives/swustoj.html)
+- [SwustOJ 题解](http://v1.hate13.com/archives/swustoj.html)
 
 ### 资源
 

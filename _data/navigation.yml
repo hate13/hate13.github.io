@@ -12,6 +12,12 @@ header:
       zh-Hant:  算法
     url:        /algorithm.html
   - titles:
+      en:       Bool
+      zh:       读书
+      zh-Hans:  读书
+      zh-Hant:  讀書
+    url:        /book.html
+  - titles:
       en:       Link
       zh:       友链
       zh-Hans:  友链

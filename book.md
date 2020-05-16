@@ -2,14 +2,12 @@
 layout: article
 titles:
   en: Book
-  zh: 书单
-  zh-Hans: 书单
-  zh-Hant: 書單
+  zh: 读书
+  zh-Hans: 读书
+  zh-Hant: 讀書
 author: hate13
 key: page-book
 ---
 
-## 2020
-
-## 2019
+开一个读书专栏，用于记录读过的一些书 // FIXME
 

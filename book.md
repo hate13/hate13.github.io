@@ -27,4 +27,31 @@ key: page-book
 
 #### 2019
 
-### TODO
+- [上帝掷骰子吗](https://book.douban.com/subject/33477229/)
+- [黑客与画家](https://book.douban.com/subject/6021440/)
+- [敢问路在何方](https://book.douban.com/subject/20424572/)
+
+#### 2020
+
+- [解忧杂货店](https://book.douban.com/subject/25862578/)
+- [三体](https://book.douban.com/subject/33420947/)
+- [激荡三十年](https://book.douban.com/subject/27599025/)
+- [许三观卖血记](https://book.douban.com/subject/4760224/)
+- [坏小孩](https://book.douban.com/subject/25955474/)
+- [白鹿原](https://book.douban.com/subject/10564071/)
+- [哲学家都干了些什么](https://book.douban.com/subject/26390842/)
+- [小狗钱钱](https://book.douban.com/subject/3576486/)
+- [江城](https://book.douban.com/subject/7060185/)
+- [香农传](https://book.douban.com/subject/30320103/)
+- [小岛经济学](https://book.douban.com/subject/26897464/)
+- [半小时漫画唐诗](https://book.douban.com/subject/33441524/)
+- [孤独是一个人的清欢](https://book.douban.com/subject/30404719/)
+- [品三国](https://book.douban.com/subject/27666002/)
+- [腾讯传](https://book.douban.com/subject/26929955/)
+- [寻路中国](https://book.douban.com/subject/5414391/)
+- [万历十五年](https://book.douban.com/subject/1041482/)
+- [史蒂夫-乔布斯传](https://book.douban.com/subject/6798611/)
+- [人类简史](https://book.douban.com/subject/25985021/)
+- [一禅小和尚](https://book.douban.com/subject/27126634/)
+- [一本摄影书](https://book.douban.com/subject/10426611/)
+

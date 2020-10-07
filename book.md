@@ -17,13 +17,11 @@ key: page-book
 
 ### 技术类
 
-#### 2018-
-
 #### 2019
 
-### 非技术类
+#### 2020
 
-#### 2018-
+### 非技术类
 
 #### 2019
 
@@ -33,6 +31,7 @@ key: page-book
 
 #### 2020
 
+- [白夜行](https://book.douban.com/subject/10554308/)
 - [解忧杂货店](https://book.douban.com/subject/25862578/)
 - [三体](https://book.douban.com/subject/33420947/)
 - [激荡三十年](https://book.douban.com/subject/27599025/)

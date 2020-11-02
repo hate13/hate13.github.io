@@ -39,6 +39,7 @@ key: page-book
 - [许三观卖血记](https://book.douban.com/subject/4760224/)
 - [坏小孩](https://book.douban.com/subject/25955474/)
 - [白鹿原](https://book.douban.com/subject/10564071/)
+- [血疫](https://book.douban.com/subject/26712353/)
 - [哲学家都干了些什么](https://book.douban.com/subject/26390842/)
 - [小狗钱钱](https://book.douban.com/subject/3576486/)
 - [江城](https://book.douban.com/subject/7060185/)
@@ -46,6 +47,7 @@ key: page-book
 - [小岛经济学](https://book.douban.com/subject/26897464/)
 - [半小时漫画唐诗](https://book.douban.com/subject/33441524/)
 - [孤独是一个人的清欢](https://book.douban.com/subject/30404719/)
+- 邓小平实录1904-1997
 - [品三国](https://book.douban.com/subject/27666002/)
 - [腾讯传](https://book.douban.com/subject/26929955/)
 - [寻路中国](https://book.douban.com/subject/5414391/)

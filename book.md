@@ -48,7 +48,7 @@ key: page-book
 - [小岛经济学](https://book.douban.com/subject/26897464/)
 - [半小时漫画唐诗](https://book.douban.com/subject/33441524/)
 - [孤独是一个人的清欢](https://book.douban.com/subject/30404719/)
-- 邓小平实录1904-1997
+- [邓小平实录1904-1997](https://book.douban.com/subject/30396221/)
 - [品三国](https://book.douban.com/subject/27666002/)
 - [腾讯传](https://book.douban.com/subject/26929955/)
 - [寻路中国](https://book.douban.com/subject/5414391/)

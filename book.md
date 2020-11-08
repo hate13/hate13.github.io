@@ -31,6 +31,7 @@ key: page-book
 
 #### 2020
 
+- [命运：文在寅自传](https://book.douban.com/subject/27607225/)
 - [一往无前](https://book.douban.com/subject/35174681/)
 - [白夜行](https://book.douban.com/subject/10554308/)
 - [解忧杂货店](https://book.douban.com/subject/25862578/)

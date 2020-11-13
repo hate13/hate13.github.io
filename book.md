@@ -31,6 +31,7 @@ key: page-book
 
 #### 2020
 
+- [命运：文在寅自传](https://book.douban.com/subject/27607225/)
 - [一往无前](https://book.douban.com/subject/35174681/)
 - [白夜行](https://book.douban.com/subject/10554308/)
 - [解忧杂货店](https://book.douban.com/subject/25862578/)
@@ -47,7 +48,7 @@ key: page-book
 - [小岛经济学](https://book.douban.com/subject/26897464/)
 - [半小时漫画唐诗](https://book.douban.com/subject/33441524/)
 - [孤独是一个人的清欢](https://book.douban.com/subject/30404719/)
-- 邓小平实录1904-1997
+- [邓小平实录1904-1997](https://book.douban.com/subject/30396221/)
 - [品三国](https://book.douban.com/subject/27666002/)
 - [腾讯传](https://book.douban.com/subject/26929955/)
 - [寻路中国](https://book.douban.com/subject/5414391/)

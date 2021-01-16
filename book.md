@@ -31,11 +31,9 @@ key: page-book
 
 ### 非技术类
 
-#### 2019
+#### 2021
 
-- [上帝掷骰子吗](https://book.douban.com/subject/33477229/) ❤️❤️❤️❤️❤️
-- [黑客与画家](https://book.douban.com/subject/6021440/) ❤️❤️❤️❤️❤️
-- [敢问路在何方](https://book.douban.com/subject/20424572/) ❤️❤️❤️❤️❤️
+- [恶意](https://book.douban.com/subject/3646172/) ❤️❤️❤️❤️❤️
 
 #### 2020
 
@@ -67,3 +65,8 @@ key: page-book
 - [一禅小和尚](https://book.douban.com/subject/27126634/) ❤️❤️❤️❤️
 - [一本摄影书](https://book.douban.com/subject/10426611/) ❤️❤️❤️❤️
 
+#### 2019
+
+- [上帝掷骰子吗](https://book.douban.com/subject/33477229/) ❤️❤️❤️❤️❤️
+- [黑客与画家](https://book.douban.com/subject/6021440/) ❤️❤️❤️❤️❤️
+- [敢问路在何方](https://book.douban.com/subject/20424572/) ❤️❤️❤️❤️❤️

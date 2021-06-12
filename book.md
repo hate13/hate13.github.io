@@ -17,6 +17,10 @@ key: page-book
 
 ### 技术类
 
+#### 2021
+
+- [Streaming Systems](https://book.douban.com/subject/27080632/) ❤️❤️❤️❤️
+
 #### 2020
 
 - [离线和实时大数据开发实战](https://book.douban.com/subject/30234022/) ❤️❤️❤️
@@ -33,6 +37,9 @@ key: page-book
 
 #### 2021
 
+- [明朝那些事儿](https://book.douban.com/subject/7163250/) ❤️❤️❤️❤️
+- [我的团长我的团](https://movie.douban.com/subject/2997325/) ❤️❤️❤️❤️❤️
+- [我的团长我的团](https://movie.douban.com/subject/2997325/) ❤️❤️❤️❤️❤️
 - [房思琪的初恋乐园](https://book.douban.com/subject/27614904/) ❤️❤️❤️❤️❤️
 - [1984](https://book.douban.com/subject/26773704/) ❤️❤️❤️❤️❤️
 - [百年孤独](https://book.douban.com/subject/6082808/) ❤️❤️❤️❤️❤️

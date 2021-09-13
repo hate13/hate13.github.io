@@ -29,7 +29,7 @@ key: page-book
 
 - [设计数据密集型应用](https://book.douban.com/subject/27154352/) ❤️❤️❤️❤️❤️
 
-- [操作系统导论](https://book.douban.com/subject/33463930/) ❤️❤️❤️❤️❤️
+- [操作系统导论](https://book.douban.com/subject/33463930/) ❤️❤️❤️❤️
 
 - [实时流计算系统设计与实现](https://book.douban.com/subject/34959199/) ❤️❤️❤️
 
@@ -39,7 +39,6 @@ key: page-book
 
 - [明朝那些事儿](https://book.douban.com/subject/7163250/) ❤️❤️❤️❤️
 - [我的团长我的团](https://movie.douban.com/subject/2997325/) ❤️❤️❤️❤️❤️
-- [我的团长我的团](https://movie.douban.com/subject/2997325/) ❤️❤️❤️❤️❤️
 - [房思琪的初恋乐园](https://book.douban.com/subject/27614904/) ❤️❤️❤️❤️❤️
 - [1984](https://book.douban.com/subject/26773704/) ❤️❤️❤️❤️❤️
 - [百年孤独](https://book.douban.com/subject/6082808/) ❤️❤️❤️❤️❤️
@@ -48,22 +47,22 @@ key: page-book
 #### 2020
 
 - [战国歧途](https://book.douban.com/subject/33436921/) ❤️❤️❤️❤️❤️
-- [命运：文在寅自传](https://book.douban.com/subject/27607225/) ❤️❤️❤️❤️❤️
+- [命运：文在寅自传](https://book.douban.com/subject/27607225/) ❤️❤️❤️❤️
 - [一往无前](https://book.douban.com/subject/35174681/) ❤️❤️❤️❤️
 - [白夜行](https://book.douban.com/subject/10554308/) ❤️❤️❤️❤️❤️
 - [解忧杂货店](https://book.douban.com/subject/25862578/) ❤️❤️❤️❤️❤️
 - [三体](https://book.douban.com/subject/33420947/) ❤️❤️❤️❤️❤️
 - [激荡三十年](https://book.douban.com/subject/27599025/) ❤️❤️❤️❤️
 - [许三观卖血记](https://book.douban.com/subject/4760224/) ❤️❤️❤️❤️❤️
-- [坏小孩](https://book.douban.com/subject/25955474/) ❤️❤️❤️❤️❤️
+- [坏小孩](https://book.douban.com/subject/25955474/) ❤️❤️❤️❤️
 - [白鹿原](https://book.douban.com/subject/10564071/) ❤️❤️❤️❤️❤️
-- [血疫](https://book.douban.com/subject/26712353/) ❤️❤️❤️❤️
+- [血疫](https://book.douban.com/subject/26712353/) ❤️❤️❤️
 - [哲学家都干了些什么](https://book.douban.com/subject/26390842/) ❤️❤️❤️❤️❤️
-- [小狗钱钱](https://book.douban.com/subject/3576486/) ❤️❤️❤️❤️❤️
+- [小狗钱钱](https://book.douban.com/subject/3576486/) ❤️❤️❤️❤️
 - [江城](https://book.douban.com/subject/7060185/) ❤️❤️❤️❤️❤️
 - [香农传](https://book.douban.com/subject/30320103/) ❤️❤️❤️
-- [小岛经济学](https://book.douban.com/subject/26897464/) ❤️❤️❤️❤️❤️
-- [半小时漫画唐诗](https://book.douban.com/subject/33441524/) ❤️❤️❤️❤️
+- [小岛经济学](https://book.douban.com/subject/26897464/) ❤️❤️❤️❤️
+- [半小时漫画唐诗](https://book.douban.com/subject/33441524/) ❤️❤️❤️
 - [孤独是一个人的清欢](https://book.douban.com/subject/30404719/) ❤️❤️❤️❤️
 - [邓小平实录1904-1997](https://book.douban.com/subject/30396221/) ❤️❤️❤️❤️❤️
 - [品三国](https://book.douban.com/subject/27666002/) ❤️❤️❤️❤️❤️

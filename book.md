@@ -9,9 +9,7 @@ author: hate13
 key: page-book
 ---
 
-开一个读书专栏，用于记录读过的一些书，附带个人评分，5 星为最高分
-
-为什么要读书：[关于读书](https://hate13.com/2020/03/21/%E5%85%B3%E4%BA%8E%E8%AF%BB%E4%B9%A6.html)
+开一个[读书专栏](https://hate13.com/2020/03/21/%E5%85%B3%E4%BA%8E%E8%AF%BB%E4%B9%A6.html)，用于记录最近读过的一些书，附带个人评分，5 星为最高分
 
 ## 书单
 
@@ -19,6 +17,7 @@ key: page-book
 
 #### 2021
 
+- [深入浅出 Rust](https://book.douban.com/subject/30312231/) ❤️❤️❤️❤️
 - [Streaming Systems](https://book.douban.com/subject/27080632/) ❤️❤️❤️❤️
 
 #### 2020
@@ -37,6 +36,7 @@ key: page-book
 
 #### 2021
 
+- [霍乱时期的爱情](https://book.douban.com/subject/10594787/) ❤️❤️❤️❤️❤️
 - [明朝那些事儿](https://book.douban.com/subject/7163250/) ❤️❤️❤️❤️
 - [我的团长我的团](https://movie.douban.com/subject/2997325/) ❤️❤️❤️❤️❤️
 - [房思琪的初恋乐园](https://book.douban.com/subject/27614904/) ❤️❤️❤️❤️❤️
@@ -64,7 +64,7 @@ key: page-book
 - [小岛经济学](https://book.douban.com/subject/26897464/) ❤️❤️❤️❤️
 - [半小时漫画唐诗](https://book.douban.com/subject/33441524/) ❤️❤️❤️
 - [孤独是一个人的清欢](https://book.douban.com/subject/30404719/) ❤️❤️❤️❤️
-- [邓小平实录1904-1997](https://book.douban.com/subject/30396221/) ❤️❤️❤️❤️❤️
+- [邓小平实录 1904-1997](https://book.douban.com/subject/30396221/) ❤️❤️❤️❤️❤️
 - [品三国](https://book.douban.com/subject/27666002/) ❤️❤️❤️❤️❤️
 - [腾讯传](https://book.douban.com/subject/26929955/) ❤️❤️❤️❤️
 - [寻路中国](https://book.douban.com/subject/5414391/) ❤️❤️❤️❤️❤️

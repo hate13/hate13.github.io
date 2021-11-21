@@ -36,6 +36,9 @@ key: page-book
 
 #### 2021
 
+- [被讨厌的勇气](https://book.douban.com/subject/26369699/) ❤️❤️❤️❤️❤️
+- [赡养人类](https://book.douban.com/subject/26807576/) ❤️❤️❤️❤️
+- [带上她的眼睛](https://book.douban.com/subject/26423329/) ❤️❤️❤️❤️❤️
 - [霍乱时期的爱情](https://book.douban.com/subject/10594787/) ❤️❤️❤️❤️❤️
 - [明朝那些事儿](https://book.douban.com/subject/7163250/) ❤️❤️❤️❤️
 - [我的团长我的团](https://movie.douban.com/subject/2997325/) ❤️❤️❤️❤️❤️

@@ -36,6 +36,7 @@ key: page-book
 
 #### 2021
 
+- [活着](https://book.douban.com/subject/1082154/) ❤️❤️❤️❤️❤️
 - [被讨厌的勇气](https://book.douban.com/subject/26369699/) ❤️❤️❤️❤️❤️
 - [赡养人类](https://book.douban.com/subject/26807576/) ❤️❤️❤️❤️
 - [带上她的眼睛](https://book.douban.com/subject/26423329/) ❤️❤️❤️❤️❤️

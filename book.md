@@ -34,24 +34,43 @@ key: page-book
 
 ### 非技术类
 
+#### 2022
+
+- [悉达多](https://book.douban.com/subject/26980487/) ❤️❤️❤️❤️❤️
+
+  > 人生就是一场修行
+
 #### 2021
 
 - [活着](https://book.douban.com/subject/1082154/) ❤️❤️❤️❤️❤️
+
 - [被讨厌的勇气](https://book.douban.com/subject/26369699/) ❤️❤️❤️❤️❤️
+
 - [赡养人类](https://book.douban.com/subject/26807576/) ❤️❤️❤️❤️
+
 - [带上她的眼睛](https://book.douban.com/subject/26423329/) ❤️❤️❤️❤️❤️
+
+  > 珍视所有平凡的东西
 - [霍乱时期的爱情](https://book.douban.com/subject/10594787/) ❤️❤️❤️❤️❤️
+
 - [明朝那些事儿](https://book.douban.com/subject/7163250/) ❤️❤️❤️❤️
+
 - [我的团长我的团](https://movie.douban.com/subject/2997325/) ❤️❤️❤️❤️❤️
+
 - [房思琪的初恋乐园](https://book.douban.com/subject/27614904/) ❤️❤️❤️❤️❤️
+
 - [1984](https://book.douban.com/subject/26773704/) ❤️❤️❤️❤️❤️
+
 - [百年孤独](https://book.douban.com/subject/6082808/) ❤️❤️❤️❤️❤️
+
 - [恶意](https://book.douban.com/subject/3646172/) ❤️❤️❤️❤️❤️
 
 #### 2020
 
 - [战国歧途](https://book.douban.com/subject/33436921/) ❤️❤️❤️❤️❤️
 - [命运：文在寅自传](https://book.douban.com/subject/27607225/) ❤️❤️❤️❤️
+
+  > 愿为江水，与君重逢
 - [一往无前](https://book.douban.com/subject/35174681/) ❤️❤️❤️❤️
 - [白夜行](https://book.douban.com/subject/10554308/) ❤️❤️❤️❤️❤️
 - [解忧杂货店](https://book.douban.com/subject/25862578/) ❤️❤️❤️❤️❤️
@@ -60,6 +79,8 @@ key: page-book
 - [许三观卖血记](https://book.douban.com/subject/4760224/) ❤️❤️❤️❤️❤️
 - [坏小孩](https://book.douban.com/subject/25955474/) ❤️❤️❤️❤️
 - [白鹿原](https://book.douban.com/subject/10564071/) ❤️❤️❤️❤️❤️
+
+  > 中国版的百年孤独
 - [血疫](https://book.douban.com/subject/26712353/) ❤️❤️❤️
 - [哲学家都干了些什么](https://book.douban.com/subject/26390842/) ❤️❤️❤️❤️❤️
 - [小狗钱钱](https://book.douban.com/subject/3576486/) ❤️❤️❤️❤️
@@ -70,6 +91,8 @@ key: page-book
 - [孤独是一个人的清欢](https://book.douban.com/subject/30404719/) ❤️❤️❤️❤️
 - [邓小平实录 1904-1997](https://book.douban.com/subject/30396221/) ❤️❤️❤️❤️❤️
 - [品三国](https://book.douban.com/subject/27666002/) ❤️❤️❤️❤️❤️
+
+  > 古今多少事，都付笑谈中
 - [腾讯传](https://book.douban.com/subject/26929955/) ❤️❤️❤️❤️
 - [寻路中国](https://book.douban.com/subject/5414391/) ❤️❤️❤️❤️❤️
 - [万历十五年](https://book.douban.com/subject/1041482/) ❤️❤️❤️❤️❤️
@@ -83,3 +106,5 @@ key: page-book
 - [上帝掷骰子吗](https://book.douban.com/subject/33477229/) ❤️❤️❤️❤️❤️
 - [黑客与画家](https://book.douban.com/subject/6021440/) ❤️❤️❤️❤️❤️
 - [敢问路在何方](https://book.douban.com/subject/20424572/) ❤️❤️❤️❤️❤️
+
+  > 致敬，整个拍摄过程又何尝不是历经了九九八十一难呢

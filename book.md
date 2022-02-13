@@ -36,6 +36,12 @@ key: page-book
 
 #### 2022
 
+- [中国城市大洗牌](https://book.douban.com/subject/34887287/?_dtcc=1) ❤️❤️❤️❤️
+
+- [硅谷钢铁侠](https://book.douban.com/subject/26759508/?_dtcc=1) ❤️❤️❤️❤️
+
+- [蛤蟆先生去看心理医生](https://book.douban.com/subject/35143790/) ❤️❤️❤️❤️
+
 - [悉达多](https://book.douban.com/subject/26980487/) ❤️❤️❤️❤️❤️
 
   > 人生就是一场修行

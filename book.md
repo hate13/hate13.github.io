@@ -38,11 +38,15 @@ key: page-book
 
 #### 2022
 
+- [楚汉双雄](https://book.douban.com/subject/35260060/) ⭐️⭐️⭐️⭐️
+
+- [置身事内](https://book.douban.com/subject/35546622) ⭐️⭐️⭐️⭐️
+
 - 长安的荔枝 ⭐️⭐️⭐️⭐️⭐️
 
-- [中国城市大洗牌](https://book.douban.com/subject/34887287/?_dtcc=1) ⭐️⭐️⭐️⭐️
+- [中国城市大洗牌](https://book.douban.com/subject/34887287) ⭐️⭐️⭐️⭐️
 
-- [硅谷钢铁侠](https://book.douban.com/subject/26759508/?_dtcc=1) ⭐️⭐️⭐️⭐️
+- [硅谷钢铁侠](https://book.douban.com/subject/26759508/) ⭐️⭐️⭐️⭐️
 
 - [蛤蟆先生去看心理医生](https://book.douban.com/subject/35143790/) ⭐️⭐️⭐️⭐️
 

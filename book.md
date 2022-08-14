@@ -38,6 +38,8 @@ key: page-book
 
 #### 2022
 
+- [生死疲劳](https://book.douban.com/subject/35587028) ⭐️⭐️⭐️⭐️⭐️
+
 - [简说西周史](https://book.douban.com/subject/34441768/) ⭐️⭐️⭐️⭐️
 
 - [楚汉双雄](https://book.douban.com/subject/35260060/) ⭐️⭐️⭐️⭐️

@@ -38,6 +38,10 @@ key: page-book
 
 #### 2022
 
+- [士兵突击](https://book.douban.com/subject/30197313/) ⭐️⭐️⭐️⭐️⭐️
+
+- [小米创业思考](https://book.douban.com/subject/36057097/) ⭐️⭐️⭐️⭐️
+
 - [生死疲劳](https://book.douban.com/subject/35587028) ⭐️⭐️⭐️⭐️⭐️
 
 - [简说西周史](https://book.douban.com/subject/34441768/) ⭐️⭐️⭐️⭐️

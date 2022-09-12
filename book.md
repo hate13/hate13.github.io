@@ -42,6 +42,8 @@ key: page-book
 
 - [小米创业思考](https://book.douban.com/subject/36057097/) ⭐️⭐️⭐️⭐️
 
+  > 毛选的实践者
+
 - [生死疲劳](https://book.douban.com/subject/35587028) ⭐️⭐️⭐️⭐️⭐️
 
 - [简说西周史](https://book.douban.com/subject/34441768/) ⭐️⭐️⭐️⭐️

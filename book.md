@@ -38,6 +38,8 @@ key: page-book
 
 #### 2022
 
+- [兄弟](https://book.douban.com/subject/20441957/) ⭐️⭐️⭐️⭐️
+
 - [士兵突击](https://book.douban.com/subject/30197313/) ⭐️⭐️⭐️⭐️⭐️
 
 - [小米创业思考](https://book.douban.com/subject/36057097/) ⭐️⭐️⭐️⭐️

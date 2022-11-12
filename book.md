@@ -54,7 +54,7 @@ key: page-book
 
 - [置身事内](https://book.douban.com/subject/35546622) ⭐️⭐️⭐️⭐️
 
-- 长安的荔枝 ⭐️⭐️⭐️⭐️⭐️
+- [长安的荔枝](https://book.douban.com/subject/36104107/) ⭐️⭐️⭐️⭐️⭐️
 
 - [中国城市大洗牌](https://book.douban.com/subject/34887287) ⭐️⭐️⭐️⭐️
 

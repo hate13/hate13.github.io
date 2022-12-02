@@ -17,6 +17,10 @@ key: page-book
 
 ### 技术类
 
+#### 2022
+
+- [CPU通识课](https://book.douban.com/subject/35857731/) ⭐️⭐️⭐️
+
 #### 2021
 
 - [深入浅出 Rust](https://book.douban.com/subject/30312231/) ⭐️⭐️⭐️⭐️

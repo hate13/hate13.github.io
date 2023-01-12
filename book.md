@@ -40,6 +40,10 @@ key: page-book
 
 ### 非技术类
 
+#### 2023
+
+- [杀死一只知更鸟](https://book.douban.com/subject/6781808/) ⭐️⭐️⭐️⭐️⭐️
+
 #### 2022
 
 - [兄弟](https://book.douban.com/subject/20441957/) ⭐️⭐️⭐️⭐️

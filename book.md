@@ -17,6 +17,10 @@ key: page-book
 
 ### 技术类
 
+#### 2023
+
+- [WEB3.0：赋能数字经济新时代](https://book.douban.com/subject/35975618)) ⭐️⭐️⭐️
+
 #### 2022
 
 - [CPU通识课](https://book.douban.com/subject/35857731/) ⭐️⭐️⭐️
@@ -41,6 +45,8 @@ key: page-book
 ### 非技术类
 
 #### 2023
+
+- [小镇喧嚣](https://book.douban.com/subject/30122152/)) ⭐️⭐️⭐️⭐️⭐️
 
 - [杀死一只知更鸟](https://book.douban.com/subject/6781808/) ⭐️⭐️⭐️⭐️⭐️
 

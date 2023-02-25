@@ -19,7 +19,7 @@ key: page-book
 
 #### 2023
 
-- [WEB3.0：赋能数字经济新时代](https://book.douban.com/subject/35975618)) ⭐️⭐️⭐️
+- [WEB3.0：赋能数字经济新时代](https://book.douban.com/subject/35975618) ⭐️⭐️⭐️
 
 #### 2022
 
@@ -28,6 +28,7 @@ key: page-book
 #### 2021
 
 - [深入浅出 Rust](https://book.douban.com/subject/30312231/) ⭐️⭐️⭐️⭐️
+
 - [Streaming Systems](https://book.douban.com/subject/27080632/) ⭐️⭐️⭐️⭐️
 
 #### 2020
@@ -46,7 +47,7 @@ key: page-book
 
 #### 2023
 
-- [小镇喧嚣](https://book.douban.com/subject/30122152/)) ⭐️⭐️⭐️⭐️⭐️
+- [小镇喧嚣](https://book.douban.com/subject/30122152/) ⭐️⭐️⭐️⭐️⭐️
 
 - [杀死一只知更鸟](https://book.douban.com/subject/6781808/) ⭐️⭐️⭐️⭐️⭐️
 

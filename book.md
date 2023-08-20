@@ -47,6 +47,10 @@ key: page-book
 
 #### 2023
 
+- [我在北京送快递](https://book.douban.com/subject/36150423/) ⭐️⭐️⭐️⭐️
+
+- [饥饿的盛世](https://book.douban.com/subject/35888701/) ⭐️⭐️⭐️
+
 - [小镇喧嚣](https://book.douban.com/subject/30122152/) ⭐️⭐️⭐️⭐️⭐️
 
 - [杀死一只知更鸟](https://book.douban.com/subject/6781808/) ⭐️⭐️⭐️⭐️⭐️

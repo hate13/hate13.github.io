@@ -45,6 +45,10 @@ key: page-book
 
 ### 非技术类
 
+#### 2024
+
+- [一地鸡毛](https://movie.douban.com/subject/1830591/) ⭐️⭐️⭐️⭐️
+
 #### 2023
 
 - [动物农场](https://book.douban.com/subject/4908879/) ⭐️⭐️⭐️⭐️⭐️

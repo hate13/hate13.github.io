@@ -45,11 +45,21 @@ key: page-book
 
 ### 非技术类
 
+#### 2025
+
+- [变形记](https://book.douban.com/subject/1213546/) ⭐️⭐️⭐️⭐️⭐️
+
+- [控糖革命](https://book.douban.com/subject/36707112/) ⭐️⭐️⭐️
+
 #### 2024
 
 - [一地鸡毛](https://movie.douban.com/subject/1830591/) ⭐️⭐️⭐️⭐️
 
+- [在峡江的转弯处-陈行甲人生笔记](https://book.douban.com/subject/35317149/) ⭐️⭐️⭐️⭐️
+
 #### 2023
+
+- [我的朋友来自1918](https://book.douban.com/subject/36153063/) ⭐️⭐️⭐️⭐️⭐️
 
 - [动物农场](https://book.douban.com/subject/4908879/) ⭐️⭐️⭐️⭐️⭐️
 

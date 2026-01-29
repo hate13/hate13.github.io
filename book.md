@@ -47,6 +47,8 @@ key: page-book
 
 #### 2025
 
+- [沧浪之水](https://book.douban.com/subject/35498118/) ⭐️⭐️⭐️⭐️⭐️
+
 - [变形记](https://book.douban.com/subject/1213546/) ⭐️⭐️⭐️⭐️⭐️
 
 - [控糖革命](https://book.douban.com/subject/36707112/) ⭐️⭐️⭐️
